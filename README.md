@@ -13,6 +13,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### TOUCH ME: <a href="https://www.linkedin.com/in/le-hoang-webdev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
 ```html
 <first>Welcome to my land!</first>
 <description>Currently, working as Front-end developer at CMC Global</description>
