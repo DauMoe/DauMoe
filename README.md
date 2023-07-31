@@ -35,7 +35,7 @@ const AboutMe: Person = {
   Region        : 'VietNam 🇻🇳',
   Position      : 'Front-end developer',
   StartAsDev    : 'since 2019',
-  Company       : ['CDiT', 'CMC Global'] //oldest -> latest
+  Company       : ['CDiT', 'CMC Global', 'Positive Thinking Company APAC'] //oldest -> latest
 }
 ```
 
