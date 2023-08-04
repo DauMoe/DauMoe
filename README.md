@@ -17,7 +17,7 @@
 
 ```html
 <first>Welcome to my land!</first>
-<description>Currently, working as Front-end developer at CMC Global</description>
+<description>Currently, working as Front-end developer at Positive Thinking Company APAC</description>
 <small>Beside, with a big huge love with Js so working Backend side using NodeJs too</small>
 ```
 
