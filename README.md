@@ -21,12 +21,6 @@
 <small>Beside, with a big huge love with Js so working Backend side using NodeJs too</small>
 ```
 
-```html
-<available>👀 Freelancer, Contract Remote, Parttime Remote</available>
-<position>FrontEnd (ReactJs), BackEnd (NodeJs)</position>
-<working_time>20:00 - 00:00 (UTC +7)</working_time>
-```
-
 ```ts
 const AboutMe: Person = {
   FullName      : 'LeHuyHoang',
