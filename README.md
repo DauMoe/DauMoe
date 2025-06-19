@@ -1,5 +1,7 @@
 ## <img src="./media/mushroom_96px.png" alt="drawing" width="30"/> Good to see you!
 
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Lightning](https://img.shields.io/badge/lightning-%23FFD43B.svg?style=for-the-badge&logo=lightning&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -17,7 +19,7 @@
 
 ```html
 <first>Welcome to my land!</first>
-<description>Currently, working as Front-end developer at Positive Thinking Company APAC</description>
+<description>Currently, working as Front-end developer at CBTW APAC</description>
 <small>Beside, with a big huge love with Js so working Backend side using NodeJs too</small>
 ```
 
@@ -29,21 +31,32 @@ const AboutMe: Person = {
   Region        : 'VietNam 🇻🇳',
   Position      : 'Front-end developer',
   StartAsDev    : 'since 2019',
-  Company       : ['CDiT', 'CMC Global', 'Positive Thinking Company APAC'] //oldest -> latest
+  Company       : ['CDiT', 'CMC Global', 'CBTW APAC'] //oldest -> latest
 }
 ```
 
 
 ```ts
 const TechnologyStack: any = {
-  FrontEnd  : ['ReactJs', 'React Native', 'Redux', 'Material UI'],
-  BackEnd   : ['ExpressJs', 'Socket.io', 'NPM + YARN'],
-  Database  : ['MariaDB', 'MySQL', 'Oracle']
+  FrontEnd  : ['Svelte', 'LightningJs', 'ReactJs', 'React Native'],
+  BackEnd   : ['ExpressJs', 'NestJs'],
+  Database  : ['MariaDB', 'MySQL']
 }
 ```
 
 ```ts
 const SideProject: OnlyMe = {
+  Temporary Workspace: {
+    Status      : 'In Progress',
+    ProductLink : 'https://chromewebstore.google.com/detail/temporary-workspace/chknlcnndogecbfchalifbeeehmfimnf',
+    Introduction: 'https://the-bithub.com/temporary-workspace',
+    UserCount   : '73 (Jun 19th, 2025)',
+    Description : 'Saves browser tabs into topic-based workspaces. Uses a color-coded system (green, yellow, red) to visually track and remind you of inactive workspaces',
+    BigChallenge: ['My first public indie product', 'Marketing doesn\'t affective', 'Idea for product', 'Listen for customer'],
+    Function    : ['Save tabs', 'Color indicator', 'Internalization'],
+    Technology  : ['Svelte', 'Google API', 'ExpressJs', 'MariaDB'],
+    Language    : ['Typescript', 'SQL'],
+  },
   Halo: {
     RepoLink    : 'https://github.com/DauMoe/kma_alo',
     Description : 'A small social media',
